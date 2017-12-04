@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\bin\Debug\contabilidad.exe.config
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\obj\Debug\contabilidad.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\bin\Debug\contabilidad.exe
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\bin\Debug\contabilidad.pdb
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\obj\Debug\contabilidad.exe
+c:\users\user\documents\visual studio 2012\Projects\contabilidad\contabilidad\obj\Debug\contabilidad.pdb
